@@ -1,46 +1,49 @@
-# Project Name
-AkiliAI - AI Utilities and Personal Payment Assistant on Celo Mini Pay
 
-## Goal for this Proof of Ship
-Week 1:
-- Smart contract development for utility payment handling 
-- Defining possible parameters (Utilities to start with and timeframe for others)
-- Logic and API development (Make agent actions and routes and test)
 
-Week 2:
-- Integration
-- AI agent actions test and contract tests
+# Project Name  
+**AkiliAI - AI Utilities and Personal Payment Assistant on Celo Mini Pay**
 
-Week 3:
-- User dashboard development (Either as chat agent or interface)
+## Goal for this Proof of Ship  
+**Week 1:**  
+- Develop the utility payment handling logic  
+- Define possible parameters for initial utilities and timeframe for adding more  
+- Build agent actions, routes, and test API  
 
-Week 4:
-- Going to mainnet and further tests
+**Week 2:**  
+- Integrate functionality  
+- Test AI agent actions and payment contract functionality  
 
-## Problem
-- Generating monthly reports summary and cost-cutting recommendations
-- Manual utility bill management is time-consuming and prone to missed payments
-- Current solutions lack AI-powered optimization and automated payment capabilities on blockchain
+**Week 3:**  
+- Develop user dashboard (either as a chat agent or interface)  
 
-## Solution
-AkiliAI automates utility payments using Celo's blockchain and AI:
-- Automated bill payments with spending caps
-- Smart scheduling of payments
-- Cost analysis and optimization recommendations
-- Monthly spending reports
-- Integration with utility providers
+**Week 4:**  
+- Deploy on mainnet and conduct further tests  
 
-## Architecture
-- Frontend: Celo Composer
-- Smart Contracts: Solidity on Celo
-- AI Integration: OpenAI API
-- Payment: Celo stablecoins (cUSD)
+## Problem  
+- Generating monthly reports and cost-cutting recommendations is time-consuming and complex.  
+- Manual utility bill management can lead to missed payments.  
+- Current solutions lack AI-powered optimization and automated payment capabilities on blockchain platforms.  
 
-## Deployed Contract Addresses on Celo
-Contracts should be verified
+## Solution  
+**AkiliAI** automates utility payments using Celo's blockchain and AI:  
+- Automated bill payments with spending caps  
+- Smart scheduling for utility payments  
+- AI-powered cost analysis and optimization recommendations  
+- Monthly spending reports  
+- Integration with utility providers  
 
-## Github Links 
-https://github.com/Olisehgenesis/AkiliAI
+## Architecture  
+- **Frontend:** Celo Composer  
+- **Smart Contracts:** Thirdweb SDK & Nebula for all-in-one functionalities  
+- **AI Integration:** Thirdweb Nebula SDK  
+- **Payment:** Celo stablecoins (cUSD)  
 
-## Team
-Oliseh Genesis
+## Deployed Contract Addresses on Celo  
+Contracts should be verified  
+
+## Github Links  
+[GitHub Repository](https://github.com/Olisehgenesis/AkiliAI)  
+
+## Team  
+Oliseh Genesis  
+
