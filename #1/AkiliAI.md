@@ -2,6 +2,8 @@
 
 # Project Name  
 **AkiliAI - AI Utilities and Personal Payment Assistant on Celo Mini Pay**
+![image](https://github.com/user-attachments/assets/6c1f15c5-9d18-4dd2-9578-8218aff3c73f)
+
 
 ## Goal for this Proof of Ship  
 **Week 1:**  
