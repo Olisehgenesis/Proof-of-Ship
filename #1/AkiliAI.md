@@ -6,23 +6,36 @@
 ## Goal for this Proof of Ship  
 **Week 1:**  
 - Develop the utility payment handling logic  
-- Define possible parameters for initial utilities and timeframe for adding more  
-- Build agent actions, routes, and test API  
+- Define initial utilities and the timeframe for expanding  
+- Build agent actions, routes, and test the API  
 
 **Week 2:**  
 - Integrate functionality  
-- Test AI agent actions and payment contract functionality  
+- Test the AI agent actions  
 
 **Week 3:**  
-- Develop user dashboard (either as a chat agent or interface)  
+- Focus on executing transactions in MiniPay with the agent as the signer  
+- Finalize the workflow and interaction within the system  
 
 **Week 4:**  
-- Deploy on mainnet and conduct further tests  
+- Review, optimize, and ensure proper transaction execution  
+- Test thoroughly with real-use cases
+
+## Current Progress  
+- Agent functionalities are working well  
+- Now focusing on executing transactions in MiniPay with the agent as the signer  
+
+## What’s Remaining  
+- Final optimization and testing of transaction execution  
+- Finalize the user interface/dashboard  
+- Comprehensive testing with real utility providers  
+- Integration with utility providers for seamless payments  
 
 ## Problem  
-- Generating monthly reports and cost-cutting recommendations is time-consuming and complex.  
-- Manual utility bill management can lead to missed payments.  
-- Current solutions lack AI-powered optimization and automated payment capabilities on blockchain platforms.  
+- Mobile-first accessibility is key, especially in Africa where many people rely on mobile devices  
+- Generating monthly reports and cost-cutting recommendations is time-consuming and complex  
+- Manual utility bill management can lead to missed payments  
+- Existing solutions lack AI-powered optimization and automated payments on blockchain platforms  
 
 ## Solution  
 **AkiliAI** automates utility payments using Celo's blockchain and AI:  
@@ -32,18 +45,16 @@
 - Monthly spending reports  
 - Integration with utility providers  
 
+## Why MiniPay?  
+Celo is mobile-first, and many Africans use mobile devices as their primary means of accessing financial services. MiniPay provides an already-made, user-friendly wallet environment, making AkiliAI a seamless solution for utility payments and blockchain transactions.  
+
 ## Architecture  
 - **Frontend:** Celo Composer  
-- **Smart Contracts:** Thirdweb SDK & Nebula for all-in-one functionalities  
-- **AI Integration:** Thirdweb Nebula SDK  
-- **Payment:** Celo stablecoins (cUSD)  
-
-## Deployed Contract Addresses on Celo  
-Contracts should be verified  
+- **AI Integration:** OpenAI  
+- **Payment:** Celo stablecoins (cUSD), MiniPay wallet  
 
 ## Github Links  
 [GitHub Repository](https://github.com/Olisehgenesis/AkiliAI)  
 
 ## Team  
 Oliseh Genesis  
-
